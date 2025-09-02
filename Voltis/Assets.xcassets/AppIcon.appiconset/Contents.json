@@ -1,7 +1,6 @@
 {
   "images" : [
     {
-<<<<<<< HEAD
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -24,10 +23,13 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "40.png",
       "idiom" : "universal",
       "platform" : "ios",
-=======
-      "filename" : "40.png",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -366,7 +368,6 @@
       "filename" : "1024.png",
       "idiom" : "watch-marketing",
       "scale" : "1x",
->>>>>>> d13eb98 (Initial Commit)
       "size" : "1024x1024"
     }
   ],
